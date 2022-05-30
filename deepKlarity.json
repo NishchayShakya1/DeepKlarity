@@ -3,7 +3,7 @@
     {
         "id": "1",
         "productName": "Product A",
-        "productUrl" : "https://raw.githubusercontent.com/NishchayShakya1/images/main/rupee.png",
+        "productUrl" : "",
         "productRating" : "Rating : 4",
         "productDescription" : "Description : Good Product"
     }
