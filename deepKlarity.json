@@ -4,8 +4,8 @@
         "id": "1",
         "productName": "Product A",
         "productUrl" : "https://raw.githubusercontent.com/NishchayShakya1/images/main/rupee.png",
-        "productRating" : "4",
-        "productDescription" : "Good Product"
+        "productRating" : "Rating : 4",
+        "productDescription" : " Description : Good Product"
     }
     ]
 }
